@@ -1,0 +1,9 @@
+frontend:
+
+npm install react-icons react-router-dom react-slick slick-carousel
+
+
+Backend:
+npm init -y
+npm install express mongoose axios nodemon jsonwebtoken path
+npm install sweetalert2
